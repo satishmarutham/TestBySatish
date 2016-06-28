@@ -1,0 +1,222 @@
+package com.centris.campus.util;
+
+import com.centris.campus.vo.StaffDetailsForPayrollVo;
+
+
+
+public class CalculateStaffSalaryDetails {
+
+	//Calculations for salary details
+	
+	public double cal_Basic(double ctc){
+		
+		double Basic=(ctc*MessageConstants.BASIC_PERCENTAGE)/100;
+		
+		Basic = Math.round(Basic);
+		
+		return Basic;
+	}
+	
+	public double cal_Hra(double ctc){
+		
+		double HRA=(ctc*MessageConstants.HRA_PER)/100;
+		
+		HRA = Math.round(HRA);
+		
+		return HRA;
+	}
+	
+	public double cal_Ca(double ctc){
+		
+		double CA=(ctc*MessageConstants.CA_PER)/100;
+		
+		CA = Math.round(CA);
+		
+		return CA;
+	}
+	
+	public double cal_Da(double ctc){
+		
+		double DA=(ctc*MessageConstants.DA_PER)/100;
+		
+		DA = Math.round(DA);
+		
+		return DA;
+	}
+	
+	public double cal_Others(double ctc){
+		
+		double OTHERS=(ctc*MessageConstants.OTHERS_PER)/100;
+		
+		OTHERS = Math.round(OTHERS);
+		
+		return OTHERS;
+	}
+	
+	public double cal_Emp_Pf(double basic){
+		
+		double EMPLOYEE_PF=0.0;
+			
+		if(basic<15000){
+			
+			EMPLOYEE_PF=(basic*MessageConstants.EMPLYEE_PF_PER)/100;
+			
+			EMPLOYEE_PF = Math.round(EMPLOYEE_PF);	
+			
+		}else{
+			
+			 EMPLOYEE_PF=(15000*MessageConstants.EMPLYEE_PF_PER)/100;
+				
+				EMPLOYEE_PF = Math.round(EMPLOYEE_PF);
+			
+		}
+			
+			return EMPLOYEE_PF;
+	}
+
+	public double cal_Empr_Pf(double basic){
+		
+		double EMPLYER_PF=0.0;
+		
+		if(basic<15000){
+			
+			EMPLYER_PF=(basic*MessageConstants.EMPLYER_PF_PER)/100;
+			
+			EMPLYER_PF = Math.round(EMPLYER_PF);	
+			
+		}else{
+			
+			EMPLYER_PF=(15000*MessageConstants.EMPLYER_PF_PER)/100;
+				
+			EMPLYER_PF = Math.round(EMPLYER_PF);
+			
+		}
+			
+		
+		return EMPLYER_PF;
+	}
+	
+	public double cal_Pt(double ctc){
+		
+		double PT;
+		
+		if(ctc<MessageConstants.pt_salary){
+			
+			PT=150;
+		}else{
+			
+			PT=200;
+		}
+		
+		return PT;
+	}
+	
+	
+	
+	//For Monthly Payroll 
+	
+	public double leavededuction(int tot_days,StaffDetailsForPayrollVo vo){
+		
+		double deduction_amt= (vo.getStaffSalaryDetails().getBasic()/tot_days)*Integer.parseInt(vo.getTotalLeave());
+		
+		return Math.round(deduction_amt);
+		
+	}
+	
+	
+	public double otherDeductions(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double deduction_amt= Math.round((vo.getStaffSalaryDetails().getOtherdeductions()/totdays)*payabledays);
+		
+		return deduction_amt;
+		
+	}
+	
+	
+	
+	public double hraMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double HRA=Math.round((vo.getStaffSalaryDetails().getHra()/totdays)*payabledays);
+		
+		return HRA;
+	}
+	
+	public double caMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double CA=Math.round((vo.getStaffSalaryDetails().getCa()/totdays)*payabledays);
+		
+		return CA;
+	}
+	
+	public double daMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double DA=Math.round((vo.getStaffSalaryDetails().getDa()/totdays)*payabledays);
+		
+		return DA;
+	}
+	
+	public double othersMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double OTHERS=Math.round((vo.getStaffSalaryDetails().getOthers()/totdays)*payabledays);
+		
+		return OTHERS;
+	}
+	
+	public double convieanceMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+				
+				double conviance=Math.round((vo.getStaffSalaryDetails().getOthers()/totdays)*payabledays);
+				
+				return conviance;
+	}
+	
+	public double medicalAllowMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double medicalaloow=Math.round((vo.getStaffSalaryDetails().getMedicalAllowances()/totdays)*payabledays);
+		
+		return medicalaloow;
+	}
+	
+
+	public double empPfMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double EMPLOYEE_PF=Math.round((vo.getStaffSalaryDetails().getEmployeepf()/totdays)*payabledays);
+			
+		return EMPLOYEE_PF;
+	}
+
+	public double emprPfMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double EMPLYER_PF=Math.round((vo.getStaffSalaryDetails().getEmployerpf()/totdays)*payabledays);
+		
+		return EMPLYER_PF;
+	}
+	
+	public double ptMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double pt=Math.round((vo.getStaffSalaryDetails().getPt()/totdays)*payabledays);
+		
+		return pt;
+		
+	}
+	
+	public double incomeTaxMonth(StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		double incometax=Math.round((vo.getStaffSalaryDetails().getIncometax()/totdays)*payabledays);
+		
+		return incometax;
+		
+	}
+	
+	public double calGross(double basic,StaffDetailsForPayrollVo vo,int payabledays,int totdays){
+		
+		CalculateStaffSalaryDetails cal=new CalculateStaffSalaryDetails();
+		
+		double grosssalary=basic+(cal.hraMonth(vo,payabledays,totdays)+cal.daMonth(vo,payabledays,totdays)+cal.caMonth(vo,payabledays,totdays)+cal.medicalAllowMonth(vo,payabledays,totdays)+cal.convieanceMonth(vo,payabledays,totdays)+cal.othersMonth(vo, payabledays, totdays))
+				-(cal.empPfMonth(vo,payabledays,totdays)+cal.emprPfMonth(vo,payabledays,totdays)+cal.ptMonth(vo,payabledays,totdays)+cal.incomeTaxMonth(vo,payabledays,totdays)+cal.otherDeductions(vo,payabledays,totdays));
+				
+				return grosssalary;	
+	}
+
+
+	
+}

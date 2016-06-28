@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/eCampusProPlus/!svn/ver/3583/E-CAMPUSPRO/src/com/centris/campus/decorator
+END
+AssignmentDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/2085/E-CAMPUSPRO/src/com/centris/campus/decorator/AssignmentDecorator.java
+END
+ViewAllSubjectDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/3403/E-CAMPUSPRO/src/com/centris/campus/decorator/ViewAllSubjectDecorator.java
+END
+AddDepartmentDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/462/E-CAMPUSPRO/src/com/centris/campus/decorator/AddDepartmentDecorator.java
+END
+LeaveBankDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2827/E-CAMPUSPRO/src/com/centris/campus/decorator/LeaveBankDecorator.java
+END
+StudentRegistrationDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eCampusProPlus/!svn/ver/3491/E-CAMPUSPRO/src/com/centris/campus/decorator/StudentRegistrationDecorator.java
+END
+FeeMasterSetupDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/3555/E-CAMPUSPRO/src/com/centris/campus/decorator/FeeMasterSetupDecorator.java
+END
+AddDesignationDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/487/E-CAMPUSPRO/src/com/centris/campus/decorator/AddDesignationDecorator.java
+END
+ParentAssignmentDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eCampusProPlus/!svn/ver/2194/E-CAMPUSPRO/src/com/centris/campus/decorator/ParentAssignmentDecorator.java
+END
+LeaveRequestDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/2409/E-CAMPUSPRO/src/com/centris/campus/decorator/LeaveRequestDecorator.java
+END
+AddStageDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/877/E-CAMPUSPRO/src/com/centris/campus/decorator/AddStageDecorator.java
+END
+StreamDetailsDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/451/E-CAMPUSPRO/src/com/centris/campus/decorator/StreamDetailsDecorator.java
+END
+ClassTeacherMappingDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eCampusProPlus/!svn/ver/1107/E-CAMPUSPRO/src/com/centris/campus/decorator/ClassTeacherMappingDecorator.java
+END
+SectionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/428/E-CAMPUSPRO/src/com/centris/campus/decorator/SectionDecorator.java
+END
+StaffPayrollDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/1988/E-CAMPUSPRO/src/com/centris/campus/decorator/StaffPayrollDecorator.java
+END
+AcademicYearMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eCampusProPlus/!svn/ver/299/E-CAMPUSPRO/src/com/centris/campus/decorator/AcademicYearMasterDecorator.java
+END
+CareerUpdateDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/535/E-CAMPUSPRO/src/com/centris/campus/decorator/CareerUpdateDecorator.java
+END
+RemainderMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/847/E-CAMPUSPRO/src/com/centris/campus/decorator/RemainderMasterDecorator.java
+END
+MarksUploadDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/2535/E-CAMPUSPRO/src/com/centris/campus/decorator/MarksUploadDecorator.java
+END
+TransportDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1770/E-CAMPUSPRO/src/com/centris/campus/decorator/TransportDecorator.java
+END
+DriverMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/1277/E-CAMPUSPRO/src/com/centris/campus/decorator/DriverMasterDecorator.java
+END
+VehicleDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/51/E-CAMPUSPRO/src/com/centris/campus/decorator/VehicleDecorator.java
+END
+UserManagementDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/250/E-CAMPUSPRO/src/com/centris/campus/decorator/UserManagementDecorator.java
+END
+TermMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/649/E-CAMPUSPRO/src/com/centris/campus/decorator/TermMasterDecorator.java
+END
+AcadamicYearPlanDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/782/E-CAMPUSPRO/src/com/centris/campus/decorator/AcadamicYearPlanDecorator.java
+END
+ExaminationDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/993/E-CAMPUSPRO/src/com/centris/campus/decorator/ExaminationDecorator.java
+END
+StageFeeSetupDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/3556/E-CAMPUSPRO/src/com/centris/campus/decorator/StageFeeSetupDecorator.java
+END
+ClassDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/163/E-CAMPUSPRO/src/com/centris/campus/decorator/ClassDecorator.java
+END
+RoleMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/186/E-CAMPUSPRO/src/com/centris/campus/decorator/RoleMasterDecorator.java
+END
+QuotaDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/693/E-CAMPUSPRO/src/com/centris/campus/decorator/QuotaDecorator.java
+END
+CareersApplyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/354/E-CAMPUSPRO/src/com/centris/campus/decorator/CareersApplyDecorator.java
+END
+BdayDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1965/E-CAMPUSPRO/src/com/centris/campus/decorator/BdayDecorator.java
+END
+MeetingDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1966/E-CAMPUSPRO/src/com/centris/campus/decorator/MeetingDecorator.java
+END
+FuelMaintenanceDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/1052/E-CAMPUSPRO/src/com/centris/campus/decorator/FuelMaintenanceDecorator.java
+END
+AllTeacherDetailsDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eCampusProPlus/!svn/ver/795/E-CAMPUSPRO/src/com/centris/campus/decorator/AllTeacherDetailsDecorator.java
+END
+TimeTableDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2433/E-CAMPUSPRO/src/com/centris/campus/decorator/TimeTableDecorator.java
+END
+TransportTypeDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/408/E-CAMPUSPRO/src/com/centris/campus/decorator/TransportTypeDecorator.java
+END
+ConcessionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/1783/E-CAMPUSPRO/src/com/centris/campus/decorator/ConcessionDecorator.java
+END
+StudentAttendanceDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eCampusProPlus/!svn/ver/2908/E-CAMPUSPRO/src/com/centris/campus/decorator/StudentAttendanceDecorator.java
+END
+FeeMasterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/415/E-CAMPUSPRO/src/com/centris/campus/decorator/FeeMasterDecorator.java
+END
+RemarksConfirmationDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eCampusProPlus/!svn/ver/3583/E-CAMPUSPRO/src/com/centris/campus/decorator/RemarksConfirmationDecorator.java
+END
+StudentEnquiryDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/1912/E-CAMPUSPRO/src/com/centris/campus/decorator/StudentEnquiryDecorator.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/eCampusProPlus/!svn/ver/1169/E-CAMPUSPRO/src/com/centris/campus/admin
+END
+SendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/SendMail.java
+END
+lstmsUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/85/E-CAMPUSPRO/src/com/centris/campus/admin/lstmsUser.java
+END
+EmailContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1169/E-CAMPUSPRO/src/com/centris/campus/admin/EmailContent.java
+END
+LstmsPrinciple.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/LstmsPrinciple.java
+END
+PasswordGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/PasswordGenerator.java
+END
+LstmsParents.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/LstmsParents.java
+END
+AuthuFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/AuthuFilter.java
+END
+LstmsTeachers.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/admin/LstmsTeachers.java
+END

@@ -1,0 +1,91 @@
+<%@ taglib uri="/WEB-INF/struts-logic.tld" prefix="logic"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<link href="CSS/newUI/custome.css" rel="stylesheet">
+<body>
+		<div class="col-md-2 leftmenu"
+			style="padding: 0; background-color: #f5f2f2;">
+			
+			<div class="panel panel-primary" style="border: none;background-color: transparent;	margin: 1px 0px;box-shadow: none;">
+			<div class="panel-heading" style="background-color: #07AAB9;">
+					<a data-toggle="collapse" data-parent="#accordion2" href="#menucollapseOne" style="color:#fff;"><h3 class="panel-title active" >Transport Management<i class="glyphicon glyphicon-triangle-bottom" style="float:right;"></i></h3></a>		
+				</div>
+				<div id="menucollapseOne" class="accordion-body collapse in">
+					<div class="panel-body" >
+						<ul class="nav nav-pills nav-stacked">
+						
+							<logic:present name="UserDetails" scope="session">
+								 <logic:iterate id="daymap" name="UserDetails" property="permissionmap" scope="session">
+									<logic:equal value="DRVDIS" name="daymap" property="key">
+										<logic:equal value="true" name="daymap" property="value">
+										
+										<li><a href="adminMenu.html?method=driverList">Driver Master</a></li>
+										
+										</logic:equal>
+									</logic:equal>
+								</logic:iterate>
+							</logic:present>
+							
+							<logic:present name="UserDetails" scope="session">
+								 <logic:iterate id="daymap" name="UserDetails" property="permissionmap" scope="session">
+									<logic:equal value="ROUDIS" name="daymap" property="key">
+										<logic:equal value="true" name="daymap" property="value">
+											
+											<li><a href="adminMenu.html?method=routeMasterSettings">Route
+											Master</a></li>
+											
+										</logic:equal>
+									</logic:equal>
+								</logic:iterate>
+							</logic:present>
+							
+							
+							<logic:present name="UserDetails" scope="session">
+								 <logic:iterate id="daymap" name="UserDetails" property="permissionmap" scope="session">
+									<logic:equal value="FUELDIS" name="daymap" property="key">
+										<logic:equal value="true" name="daymap" property="value">
+											
+											<li><a href="adminMenu.html?method=fuelMaintenance">Fuel maintenance</a></li>
+											
+											</logic:equal>
+									</logic:equal>
+								</logic:iterate>
+							</logic:present>
+											
+							<logic:present name="UserDetails" scope="session">
+								 <logic:iterate id="daymap" name="UserDetails" property="permissionmap" scope="session">
+									<logic:equal value="VEHDIS" name="daymap" property="key">
+										<logic:equal value="true" name="daymap" property="value">
+											
+											<li><a href="adminMenu.html?method=vehicleList">Vehicle Master</a></li>
+									
+										</logic:equal>
+									</logic:equal>
+								</logic:iterate>
+							</logic:present>
+									
+											
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+									<li>&nbsp;</li>
+						</ul>
+						
+					</div>
+				  <br/>
+				</div>
+			</div>
+			
+		</div>
+</body>
+</html>

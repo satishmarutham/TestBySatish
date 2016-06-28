@@ -1,0 +1,208 @@
+package com.centris.campus.vo;
+
+public class StaffEmployementVo {
+
+	//for personal information
+	private String empid;
+	private String empregno;
+	private String empname;
+	private String department;
+	private String paymenttype;
+	private String accnumber;
+	private String pfnumber;
+	private String esinumber;
+	private String pannumber;
+	
+	
+	//earnings
+	
+	private double ctc;
+	private double basic;
+	private double hra;
+	private double da;
+	private double ca;
+	private double medicalAllowances;
+	private double conviance;
+	private double others;
+	private double grosssalary;
+	
+	
+	//deductions
+	
+	private double employerpf;
+	private double employeepf;
+	private double pt;
+	private double incometax;
+	private double otherdeductions;
+	private String leavedeductions;
+	private String latedeductions;
+	private String overtime;
+	
+	
+	
+	
+	public double getConviance() {
+		return conviance;
+	}
+	public void setConviance(double conviance) {
+		this.conviance = conviance;
+	}
+	public String getEmpregno() {
+		return empregno;
+	}
+	public void setEmpregno(String empregno) {
+		this.empregno = empregno;
+	}
+	public String getEmpid() {
+		return empid;
+	}
+	public void setEmpid(String empid) {
+		this.empid = empid;
+	}
+	public String getEmpname() {
+		return empname;
+	}
+	public void setEmpname(String empname) {
+		this.empname = empname;
+	}
+	public String getDepartment() {
+		return department;
+	}
+	public void setDepartment(String department) {
+		this.department = department;
+	}
+
+	public String getPaymenttype() {
+		return paymenttype;
+	}
+	public void setPaymenttype(String paymenttype) {
+		this.paymenttype = paymenttype;
+	}
+	public String getAccnumber() {
+		return accnumber;
+	}
+	public void setAccnumber(String accnumber) {
+		this.accnumber = accnumber;
+	}
+	public String getPfnumber() {
+		return pfnumber;
+	}
+	public void setPfnumber(String pfnumber) {
+		this.pfnumber = pfnumber;
+	}
+	public String getEsinumber() {
+		return esinumber;
+	}
+	public void setEsinumber(String esinumber) {
+		this.esinumber = esinumber;
+	}
+	public String getPannumber() {
+		return pannumber;
+	}
+	public void setPannumber(String pannumber) {
+		this.pannumber = pannumber;
+	}
+	public double getCtc() {
+		return ctc;
+	}
+	public void setCtc(double ctc) {
+		this.ctc = ctc;
+	}
+	public double getBasic() {
+		return basic;
+	}
+	public void setBasic(double basic) {
+		this.basic = basic;
+	}
+	public double getHra() {
+		return hra;
+	}
+	public void setHra(double hra) {
+		this.hra = hra;
+	}
+	public double getDa() {
+		return da;
+	}
+	public void setDa(double da) {
+		this.da = da;
+	}
+	public double getCa() {
+		return ca;
+	}
+	public void setCa(double ca) {
+		this.ca = ca;
+	}
+	public double getMedicalAllowances() {
+		return medicalAllowances;
+	}
+	public void setMedicalAllowances(double medicalAllowances) {
+		this.medicalAllowances = medicalAllowances;
+	}
+	public double getOthers() {
+		return others;
+	}
+	public void setOthers(double others) {
+		this.others = others;
+	}
+	public double getGrosssalary() {
+		return grosssalary;
+	}
+	public void setGrosssalary(double grosssalary) {
+		this.grosssalary = grosssalary;
+	}
+	public double getEmployerpf() {
+		return employerpf;
+	}
+	public void setEmployerpf(double employerpf) {
+		this.employerpf = employerpf;
+	}
+	public double getEmployeepf() {
+		return employeepf;
+	}
+	public void setEmployeepf(double employeepf) {
+		this.employeepf = employeepf;
+	}
+	public double getPt() {
+		return pt;
+	}
+	public void setPt(double pt) {
+		this.pt = pt;
+	}
+	public double getIncometax() {
+		return incometax;
+	}
+	public void setIncometax(double incometax) {
+		this.incometax = incometax;
+	}
+	public double getOtherdeductions() {
+		return otherdeductions;
+	}
+	public void setOtherdeductions(double otherdeductions) {
+		this.otherdeductions = otherdeductions;
+	}
+	public String getLeavedeductions() {
+		return leavedeductions;
+	}
+	public void setLeavedeductions(String leavedeductions) {
+		this.leavedeductions = leavedeductions;
+	}
+	public String getLatedeductions() {
+		return latedeductions;
+	}
+	public void setLatedeductions(String latedeductions) {
+		this.latedeductions = latedeductions;
+	}
+	public String getOvertime() {
+		return overtime;
+	}
+	public void setOvertime(String overtime) {
+		this.overtime = overtime;
+	}
+	
+	
+	
+	
+	
+	
+	
+}

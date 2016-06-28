@@ -1,0 +1,92 @@
+10
+
+dir
+3601
+https://devlopment/svn/eCampusProPlus/E-CAMPUSPRO/WebContent/JSP/backOffice
+https://devlopment/svn/eCampusProPlus
+
+
+
+2016-02-01T05:35:35.481277Z
+3599
+Deepthi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+20e509a5-07de-4b46-b6e6-4648cde0b6ee
+
+Admin
+dir
+
+AdminHome.jsp
+file
+
+
+
+
+2015-12-17T07:03:17.573000Z
+bb1598beaaf704e6bd05f6a90b446123
+2015-12-14T07:23:14.328125Z
+2389
+Seshu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6670
+
+Exam
+dir
+
+Fee
+dir
+
+Parents
+dir
+
+Reports
+dir
+
+Settings
+dir
+
+Staff
+dir
+
+Student
+dir
+
+Teachers
+dir
+
+Transport
+dir
+

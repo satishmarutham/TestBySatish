@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/eCampusProPlus/!svn/ver/3588/E-CAMPUSPRO/src/com/centris/campus/util
+END
+SQLtableconstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/util/SQLtableconstants.java
+END
+SubjectSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3409/E-CAMPUSPRO/src/com/centris/campus/util/SubjectSqlUtils.java
+END
+LeaveReportSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2956/E-CAMPUSPRO/src/com/centris/campus/util/LeaveReportSqlUtils.java
+END
+TransportTypeSqlutil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/403/E-CAMPUSPRO/src/com/centris/campus/util/TransportTypeSqlutil.java
+END
+HelperClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3616/E-CAMPUSPRO/src/com/centris/campus/util/HelperClass.java
+END
+StudentPromotionSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1948/E-CAMPUSPRO/src/com/centris/campus/util/StudentPromotionSqlUtil.java
+END
+StaffPayrollUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1996/E-CAMPUSPRO/src/com/centris/campus/util/StaffPayrollUtil.java
+END
+StaffAttendanceSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/2229/E-CAMPUSPRO/src/com/centris/campus/util/StaffAttendanceSqlUtil.java
+END
+LoginSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3510/E-CAMPUSPRO/src/com/centris/campus/util/LoginSqlUtil.java
+END
+ExamTimeTableSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1250/E-CAMPUSPRO/src/com/centris/campus/util/ExamTimeTableSqlUtils.java
+END
+AcademicYearSQLUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/3497/E-CAMPUSPRO/src/com/centris/campus/util/AcademicYearSQLUtilConstants.java
+END
+TeacherUtilsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2385/E-CAMPUSPRO/src/com/centris/campus/util/TeacherUtilsConstants.java
+END
+SQLUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3615/E-CAMPUSPRO/src/com/centris/campus/util/SQLUtilConstants.java
+END
+AcadamicYearPlanSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/776/E-CAMPUSPRO/src/com/centris/campus/util/AcadamicYearPlanSqlUtil.java
+END
+ReportsMenuSqlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/3572/E-CAMPUSPRO/src/com/centris/campus/util/ReportsMenuSqlConstants.java
+END
+CalculateStaffSalaryDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/1996/E-CAMPUSPRO/src/com/centris/campus/util/CalculateStaffSalaryDetails.java
+END
+JLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/util/JLogger.java
+END
+RoleMasterSqlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/3498/E-CAMPUSPRO/src/com/centris/campus/util/RoleMasterSqlConstants.java
+END
+ParentModuleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3510/E-CAMPUSPRO/src/com/centris/campus/util/ParentModuleUtil.java
+END
+VehicleDriverMappingSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/1142/E-CAMPUSPRO/src/com/centris/campus/util/VehicleDriverMappingSqlUtil.java
+END
+StageFeeSetupSqlUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/1231/E-CAMPUSPRO/src/com/centris/campus/util/StageFeeSetupSqlUtilConstants.java
+END
+StudentRegistrationSQLUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/eCampusProPlus/!svn/ver/3459/E-CAMPUSPRO/src/com/centris/campus/util/StudentRegistrationSQLUtilConstants.java
+END
+StringUtilContants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/util/StringUtilContants.java
+END
+StudentAttendanceSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/3588/E-CAMPUSPRO/src/com/centris/campus/util/StudentAttendanceSqlUtil.java
+END
+MessageConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3617/E-CAMPUSPRO/src/com/centris/campus/util/MessageConstants.java
+END
+StudentEnquirySqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1918/E-CAMPUSPRO/src/com/centris/campus/util/StudentEnquirySqlUtil.java
+END
+FeeCollectionSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1819/E-CAMPUSPRO/src/com/centris/campus/util/FeeCollectionSqlUtils.java
+END
+MarksUploadUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/2541/E-CAMPUSPRO/src/com/centris/campus/util/MarksUploadUtilConstants.java
+END
+TransportUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/2458/E-CAMPUSPRO/src/com/centris/campus/util/TransportUtilConstants.java
+END
+SectionUtilsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3316/E-CAMPUSPRO/src/com/centris/campus/util/SectionUtilsConstants.java
+END
+StreamSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/919/E-CAMPUSPRO/src/com/centris/campus/util/StreamSqlUtils.java
+END
+JPropertyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/util/JPropertyReader.java
+END
+UserManagementSqlutil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3519/E-CAMPUSPRO/src/com/centris/campus/util/UserManagementSqlutil.java
+END
+ExamSqlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/982/E-CAMPUSPRO/src/com/centris/campus/util/ExamSqlUtils.java
+END
+TimeTableSqlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2519/E-CAMPUSPRO/src/com/centris/campus/util/TimeTableSqlConstants.java
+END
+ErrorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/util/ErrorMessage.java
+END
+InternalJobPostSQLUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eCampusProPlus/!svn/ver/639/E-CAMPUSPRO/src/com/centris/campus/util/InternalJobPostSQLUtilConstants.java
+END
+SendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/1179/E-CAMPUSPRO/src/com/centris/campus/util/SendMail.java
+END
+AssignmentUploadUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/2092/E-CAMPUSPRO/src/com/centris/campus/util/AssignmentUploadUtilConstants.java
+END
+CommunicateUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/3587/E-CAMPUSPRO/src/com/centris/campus/util/CommunicateUtilConstants.java
+END
+JDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/eCampusProPlus/!svn/ver/90/E-CAMPUSPRO/src/com/centris/campus/util/JDate.java
+END
+StaffEmployementUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/3614/E-CAMPUSPRO/src/com/centris/campus/util/StaffEmployementUtil.java
+END
+StaffAttendancePostingSqlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/2107/E-CAMPUSPRO/src/com/centris/campus/util/StaffAttendancePostingSqlUtil.java
+END
+ClassUtilsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3315/E-CAMPUSPRO/src/com/centris/campus/util/ClassUtilsConstants.java
+END
+UserRolePermissionSqlConstatnts.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eCampusProPlus/!svn/ver/2329/E-CAMPUSPRO/src/com/centris/campus/util/UserRolePermissionSqlConstatnts.java
+END
+LeaveReportXLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2957/E-CAMPUSPRO/src/com/centris/campus/util/LeaveReportXLS.java
+END
+ClassFeeSetupDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1210/E-CAMPUSPRO/src/com/centris/campus/util/ClassFeeSetupDetails.java
+END

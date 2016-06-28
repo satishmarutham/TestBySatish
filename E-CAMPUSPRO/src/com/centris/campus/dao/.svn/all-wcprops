@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eCampusProPlus/!svn/ver/3580/E-CAMPUSPRO/src/com/centris/campus/dao
+END
+TransportTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/411/E-CAMPUSPRO/src/com/centris/campus/dao/TransportTypeDao.java
+END
+FeeCollectionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1813/E-CAMPUSPRO/src/com/centris/campus/dao/FeeCollectionDao.java
+END
+StudentAttendanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2906/E-CAMPUSPRO/src/com/centris/campus/dao/StudentAttendanceDao.java
+END
+OnlineFeeReceiptDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3246/E-CAMPUSPRO/src/com/centris/campus/dao/OnlineFeeReceiptDao.java
+END
+FeeMasterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/710/E-CAMPUSPRO/src/com/centris/campus/dao/FeeMasterDAO.java
+END
+StudentEnquiryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1909/E-CAMPUSPRO/src/com/centris/campus/dao/StudentEnquiryDao.java
+END
+StaffServiceReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/3176/E-CAMPUSPRO/src/com/centris/campus/dao/StaffServiceReportDao.java
+END
+UserRolePermissionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1027/E-CAMPUSPRO/src/com/centris/campus/dao/UserRolePermissionDAO.java
+END
+StudentTransferCertifivateReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/eCampusProPlus/!svn/ver/2866/E-CAMPUSPRO/src/com/centris/campus/dao/StudentTransferCertifivateReportDao.java
+END
+LeaveBankDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2825/E-CAMPUSPRO/src/com/centris/campus/dao/LeaveBankDAO.java
+END
+DepartmentMasterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/459/E-CAMPUSPRO/src/com/centris/campus/dao/DepartmentMasterDao.java
+END
+StudentRegistrationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3008/E-CAMPUSPRO/src/com/centris/campus/dao/StudentRegistrationDao.java
+END
+AddDesignationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/484/E-CAMPUSPRO/src/com/centris/campus/dao/AddDesignationDao.java
+END
+FeeCollectionSummaryReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/3164/E-CAMPUSPRO/src/com/centris/campus/dao/FeeCollectionSummaryReportDao.java
+END
+FeeSetupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/1780/E-CAMPUSPRO/src/com/centris/campus/dao/FeeSetupDao.java
+END
+CommunicationSettingsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/3580/E-CAMPUSPRO/src/com/centris/campus/dao/CommunicationSettingsDao.java
+END
+StudentPramotionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1934/E-CAMPUSPRO/src/com/centris/campus/dao/StudentPramotionDao.java
+END
+TeacherLeaveRequestDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2947/E-CAMPUSPRO/src/com/centris/campus/dao/TeacherLeaveRequestDao.java
+END
+ClassTeacherLsitDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3293/E-CAMPUSPRO/src/com/centris/campus/dao/ClassTeacherLsitDao.java
+END
+LeaveDetailsReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2964/E-CAMPUSPRO/src/com/centris/campus/dao/LeaveDetailsReportDao.java
+END
+StreamDetailsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1305/E-CAMPUSPRO/src/com/centris/campus/dao/StreamDetailsDao.java
+END
+ExamTimeTableDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1247/E-CAMPUSPRO/src/com/centris/campus/dao/ExamTimeTableDao.java
+END
+TeacherDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/1890/E-CAMPUSPRO/src/com/centris/campus/dao/TeacherDao.java
+END
+ParentLeaveRequestDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2664/E-CAMPUSPRO/src/com/centris/campus/dao/ParentLeaveRequestDao.java
+END
+ExamDetailsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/992/E-CAMPUSPRO/src/com/centris/campus/dao/ExamDetailsDao.java
+END
+ClassTeacherMappingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1157/E-CAMPUSPRO/src/com/centris/campus/dao/ClassTeacherMappingDAO.java
+END
+SectionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3007/E-CAMPUSPRO/src/com/centris/campus/dao/SectionDao.java
+END
+StaffPayrollDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/1985/E-CAMPUSPRO/src/com/centris/campus/dao/StaffPayrollDao.java
+END
+ReleivingOrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2778/E-CAMPUSPRO/src/com/centris/campus/dao/ReleivingOrderDao.java
+END
+StaffReleivingOrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2865/E-CAMPUSPRO/src/com/centris/campus/dao/StaffReleivingOrderDao.java
+END
+AcademicYearMasterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/594/E-CAMPUSPRO/src/com/centris/campus/dao/AcademicYearMasterDao.java
+END
+RemainderMasterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/844/E-CAMPUSPRO/src/com/centris/campus/dao/RemainderMasterDAO.java
+END
+MarksUploadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/2533/E-CAMPUSPRO/src/com/centris/campus/dao/MarksUploadDao.java
+END
+TransportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2450/E-CAMPUSPRO/src/com/centris/campus/dao/TransportDao.java
+END
+StaffAttendanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2906/E-CAMPUSPRO/src/com/centris/campus/dao/StaffAttendanceDao.java
+END
+TeacherAttendanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2101/E-CAMPUSPRO/src/com/centris/campus/dao/TeacherAttendanceDao.java
+END
+ParentSettingsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3359/E-CAMPUSPRO/src/com/centris/campus/dao/ParentSettingsDao.java
+END
+UserManagementDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/252/E-CAMPUSPRO/src/com/centris/campus/dao/UserManagementDao.java
+END
+TermMasterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/711/E-CAMPUSPRO/src/com/centris/campus/dao/TermMasterDAO.java
+END
+AssignmentUploadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/2084/E-CAMPUSPRO/src/com/centris/campus/dao/AssignmentUploadDao.java
+END
+ClassFeeSetupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1202/E-CAMPUSPRO/src/com/centris/campus/dao/ClassFeeSetupDao.java
+END
+AcadamicYearPlanDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/785/E-CAMPUSPRO/src/com/centris/campus/dao/AcadamicYearPlanDao.java
+END
+PhoneDirectoryReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/2927/E-CAMPUSPRO/src/com/centris/campus/dao/PhoneDirectoryReportDao.java
+END
+StageFeeSetupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1223/E-CAMPUSPRO/src/com/centris/campus/dao/StageFeeSetupDao.java
+END
+StaffEmployementDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3606/E-CAMPUSPRO/src/com/centris/campus/dao/StaffEmployementDao.java
+END
+ClassDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/324/E-CAMPUSPRO/src/com/centris/campus/dao/ClassDao.java
+END
+RoleMasterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/184/E-CAMPUSPRO/src/com/centris/campus/dao/RoleMasterDao.java
+END
+AddtSubjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/503/E-CAMPUSPRO/src/com/centris/campus/dao/AddtSubjectDao.java
+END
+CareersViewDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/595/E-CAMPUSPRO/src/com/centris/campus/dao/CareersViewDao.java
+END
+QuotaMasterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/689/E-CAMPUSPRO/src/com/centris/campus/dao/QuotaMasterDao.java
+END
+VehicleDriverMappingDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/1137/E-CAMPUSPRO/src/com/centris/campus/dao/VehicleDriverMappingDao.java
+END
+FuelMaintenanceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/1047/E-CAMPUSPRO/src/com/centris/campus/dao/FuelMaintenanceDao.java
+END
+StaffAttendanceReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/3283/E-CAMPUSPRO/src/com/centris/campus/dao/StaffAttendanceReportDao.java
+END
+StageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/873/E-CAMPUSPRO/src/com/centris/campus/dao/StageDAO.java
+END
+ReportsMenuDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3263/E-CAMPUSPRO/src/com/centris/campus/dao/ReportsMenuDao.java
+END
+TimeTableDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2514/E-CAMPUSPRO/src/com/centris/campus/dao/TimeTableDao.java
+END

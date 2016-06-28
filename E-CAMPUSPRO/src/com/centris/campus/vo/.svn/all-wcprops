@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eCampusProPlus/!svn/ver/3589/E-CAMPUSPRO/src/com/centris/campus/vo
+END
+StudentMarksDisplayVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2542/E-CAMPUSPRO/src/com/centris/campus/vo/StudentMarksDisplayVO.java
+END
+UpcomingBdayVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2732/E-CAMPUSPRO/src/com/centris/campus/vo/UpcomingBdayVo.java
+END
+ScoredMarksVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2542/E-CAMPUSPRO/src/com/centris/campus/vo/ScoredMarksVO.java
+END
+UserRolePermissionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1022/E-CAMPUSPRO/src/com/centris/campus/vo/UserRolePermissionVO.java
+END
+AssignmentUploadVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2093/E-CAMPUSPRO/src/com/centris/campus/vo/AssignmentUploadVo.java
+END
+HelperClassVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/149/E-CAMPUSPRO/src/com/centris/campus/vo/HelperClassVo.java
+END
+StaffSearchVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1902/E-CAMPUSPRO/src/com/centris/campus/vo/StaffSearchVo.java
+END
+RemainderMasterVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/853/E-CAMPUSPRO/src/com/centris/campus/vo/RemainderMasterVO.java
+END
+MarksUploadVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3273/E-CAMPUSPRO/src/com/centris/campus/vo/MarksUploadVO.java
+END
+VehicleDriverMappingPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/1143/E-CAMPUSPRO/src/com/centris/campus/vo/VehicleDriverMappingPojo.java
+END
+ViewallSubjectsVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2306/E-CAMPUSPRO/src/com/centris/campus/vo/ViewallSubjectsVo.java
+END
+TeacherVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/2960/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherVo.java
+END
+AllTeacherDetailsVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2884/E-CAMPUSPRO/src/com/centris/campus/vo/AllTeacherDetailsVo.java
+END
+TimeTableVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2520/E-CAMPUSPRO/src/com/centris/campus/vo/TimeTableVo.java
+END
+AddStageVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/886/E-CAMPUSPRO/src/com/centris/campus/vo/AddStageVO.java
+END
+UserDetailVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2421/E-CAMPUSPRO/src/com/centris/campus/vo/UserDetailVO.java
+END
+UserRecordVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/243/E-CAMPUSPRO/src/com/centris/campus/vo/UserRecordVO.java
+END
+QuotaMasterVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/700/E-CAMPUSPRO/src/com/centris/campus/vo/QuotaMasterVO.java
+END
+LeaveRequestVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2762/E-CAMPUSPRO/src/com/centris/campus/vo/LeaveRequestVo.java
+END
+StudentRegistrationVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2305/E-CAMPUSPRO/src/com/centris/campus/vo/StudentRegistrationVo.java
+END
+ClassFeeSetupVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1211/E-CAMPUSPRO/src/com/centris/campus/vo/ClassFeeSetupVo.java
+END
+DriverMsaterListVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1285/E-CAMPUSPRO/src/com/centris/campus/vo/DriverMsaterListVo.java
+END
+DriverMasterVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/1284/E-CAMPUSPRO/src/com/centris/campus/vo/DriverMasterVO.java
+END
+FeeConcessionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1791/E-CAMPUSPRO/src/com/centris/campus/vo/FeeConcessionVO.java
+END
+ParentVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/2577/E-CAMPUSPRO/src/com/centris/campus/vo/ParentVO.java
+END
+StudentInfoVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1490/E-CAMPUSPRO/src/com/centris/campus/vo/StudentInfoVO.java
+END
+StaffAttendanceVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2230/E-CAMPUSPRO/src/com/centris/campus/vo/StaffAttendanceVo.java
+END
+LoginVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eCampusProPlus/!svn/ver/2330/E-CAMPUSPRO/src/com/centris/campus/vo/LoginVo.java
+END
+LeaveStatusListVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2960/E-CAMPUSPRO/src/com/centris/campus/vo/LeaveStatusListVO.java
+END
+LeaveBalanceVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2606/E-CAMPUSPRO/src/com/centris/campus/vo/LeaveBalanceVo.java
+END
+ReleivingOrderVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2885/E-CAMPUSPRO/src/com/centris/campus/vo/ReleivingOrderVo.java
+END
+AcademicYearVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/71/E-CAMPUSPRO/src/com/centris/campus/vo/AcademicYearVO.java
+END
+ClassTeacherMappingVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/1113/E-CAMPUSPRO/src/com/centris/campus/vo/ClassTeacherMappingVO.java
+END
+StudentAttendanceVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3589/E-CAMPUSPRO/src/com/centris/campus/vo/StudentAttendanceVo.java
+END
+StaffPayrollListVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1998/E-CAMPUSPRO/src/com/centris/campus/vo/StaffPayrollListVo.java
+END
+StageMasterVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1773/E-CAMPUSPRO/src/com/centris/campus/vo/StageMasterVo.java
+END
+StaffDetailsForPayrollVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/1998/E-CAMPUSPRO/src/com/centris/campus/vo/StaffDetailsForPayrollVo.java
+END
+FuelMaintenanceVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1060/E-CAMPUSPRO/src/com/centris/campus/vo/FuelMaintenanceVO.java
+END
+StudentPramotionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1951/E-CAMPUSPRO/src/com/centris/campus/vo/StudentPramotionVO.java
+END
+UpcomingRemarksVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/1980/E-CAMPUSPRO/src/com/centris/campus/vo/UpcomingRemarksVO.java
+END
+AddDesignationVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/496/E-CAMPUSPRO/src/com/centris/campus/vo/AddDesignationVO.java
+END
+DepartmentMasterVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/470/E-CAMPUSPRO/src/com/centris/campus/vo/DepartmentMasterVO.java
+END
+AssignmentViewVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2124/E-CAMPUSPRO/src/com/centris/campus/vo/AssignmentViewVO.java
+END
+AcadamicYearPlanVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/774/E-CAMPUSPRO/src/com/centris/campus/vo/AcadamicYearPlanVO.java
+END
+ExaminationDetailsVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3272/E-CAMPUSPRO/src/com/centris/campus/vo/ExaminationDetailsVo.java
+END
+ParentFeedbackVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2203/E-CAMPUSPRO/src/com/centris/campus/vo/ParentFeedbackVo.java
+END
+TermMasterVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/657/E-CAMPUSPRO/src/com/centris/campus/vo/TermMasterVo.java
+END
+LstmsUpcomingMeetingVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2731/E-CAMPUSPRO/src/com/centris/campus/vo/LstmsUpcomingMeetingVO.java
+END
+PostAttendanceVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2108/E-CAMPUSPRO/src/com/centris/campus/vo/PostAttendanceVO.java
+END
+DriverVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/1143/E-CAMPUSPRO/src/com/centris/campus/vo/DriverVo.java
+END
+SQLUtilConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/885/E-CAMPUSPRO/src/com/centris/campus/vo/SQLUtilConstants.java
+END
+AddFeeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/2459/E-CAMPUSPRO/src/com/centris/campus/vo/AddFeeVO.java
+END
+PayRollVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/1998/E-CAMPUSPRO/src/com/centris/campus/vo/PayRollVo.java
+END
+SectionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3020/E-CAMPUSPRO/src/com/centris/campus/vo/SectionVO.java
+END
+OnlineFeeReceiptVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3254/E-CAMPUSPRO/src/com/centris/campus/vo/OnlineFeeReceiptVo.java
+END
+PayCertificateReportVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/3184/E-CAMPUSPRO/src/com/centris/campus/vo/PayCertificateReportVO.java
+END
+TeacherTimeTableVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2439/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherTimeTableVo.java
+END
+ScoredMarksEntryVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2923/E-CAMPUSPRO/src/com/centris/campus/vo/ScoredMarksEntryVO.java
+END
+TeacherAttendanceStatusVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2108/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherAttendanceStatusVo.java
+END
+registrationvo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3019/E-CAMPUSPRO/src/com/centris/campus/vo/registrationvo.java
+END
+AcadamicYearVO2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1952/E-CAMPUSPRO/src/com/centris/campus/vo/AcadamicYearVO2.java
+END
+StudentAttendanceReportVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2818/E-CAMPUSPRO/src/com/centris/campus/vo/StudentAttendanceReportVo.java
+END
+StudentMarksDetailsVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2922/E-CAMPUSPRO/src/com/centris/campus/vo/StudentMarksDetailsVo.java
+END
+VehicleDetailsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/1880/E-CAMPUSPRO/src/com/centris/campus/vo/VehicleDetailsVO.java
+END
+StageFeeSetupVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1233/E-CAMPUSPRO/src/com/centris/campus/vo/StageFeeSetupVo.java
+END
+StaffEmployementVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/1902/E-CAMPUSPRO/src/com/centris/campus/vo/StaffEmployementVo.java
+END
+ReportMenuVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2886/E-CAMPUSPRO/src/com/centris/campus/vo/ReportMenuVo.java
+END
+RemarksVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/1977/E-CAMPUSPRO/src/com/centris/campus/vo/RemarksVo.java
+END
+LeaveBankVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2834/E-CAMPUSPRO/src/com/centris/campus/vo/LeaveBankVO.java
+END
+FeeNameVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/1821/E-CAMPUSPRO/src/com/centris/campus/vo/FeeNameVo.java
+END
+TeacherManualAttendanceVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2108/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherManualAttendanceVO.java
+END
+PermissionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2330/E-CAMPUSPRO/src/com/centris/campus/vo/PermissionVO.java
+END
+CareerUpdatePopuVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/543/E-CAMPUSPRO/src/com/centris/campus/vo/CareerUpdatePopuVO.java
+END
+TeacherAttendanceVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2108/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherAttendanceVo.java
+END
+ClassTeacherVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3410/E-CAMPUSPRO/src/com/centris/campus/vo/ClassTeacherVo.java
+END
+TransportVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2460/E-CAMPUSPRO/src/com/centris/campus/vo/TransportVo.java
+END
+StudentEnquiryVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/1920/E-CAMPUSPRO/src/com/centris/campus/vo/StudentEnquiryVo.java
+END
+FeeReportDetailsVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3210/E-CAMPUSPRO/src/com/centris/campus/vo/FeeReportDetailsVo.java
+END
+FeeCollectionVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/1820/E-CAMPUSPRO/src/com/centris/campus/vo/FeeCollectionVo.java
+END
+TransportTypeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/955/E-CAMPUSPRO/src/com/centris/campus/vo/TransportTypeVO.java
+END
+NonBoardSalaryvo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3183/E-CAMPUSPRO/src/com/centris/campus/vo/NonBoardSalaryvo.java
+END
+StreamDetailsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/447/E-CAMPUSPRO/src/com/centris/campus/vo/StreamDetailsVO.java
+END
+PhoneDirectoryVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/2935/E-CAMPUSPRO/src/com/centris/campus/vo/PhoneDirectoryVo.java
+END
+LeaveDetailsReportVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/2960/E-CAMPUSPRO/src/com/centris/campus/vo/LeaveDetailsReportVo.java
+END
+CareersViewVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/542/E-CAMPUSPRO/src/com/centris/campus/vo/CareersViewVo.java
+END
+VehicleDriverMappingVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1143/E-CAMPUSPRO/src/com/centris/campus/vo/VehicleDriverMappingVo.java
+END
+TeacherMappingClassesVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1358/E-CAMPUSPRO/src/com/centris/campus/vo/TeacherMappingClassesVo.java
+END
+RoleMasterVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/192/E-CAMPUSPRO/src/com/centris/campus/vo/RoleMasterVo.java
+END

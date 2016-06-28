@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/eCampusProPlus/!svn/ver/3267/E-CAMPUSPRO/src/com/centris/campus/pojo
+END
+TransportPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/2455/E-CAMPUSPRO/src/com/centris/campus/pojo/TransportPojo.java
+END
+StaffAttendancePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2225/E-CAMPUSPRO/src/com/centris/campus/pojo/StaffAttendancePojo.java
+END
+StudentPromotionPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1942/E-CAMPUSPRO/src/com/centris/campus/pojo/StudentPromotionPOJO.java
+END
+StudentEnquiryPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1915/E-CAMPUSPRO/src/com/centris/campus/pojo/StudentEnquiryPojo.java
+END
+SectionPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2357/E-CAMPUSPRO/src/com/centris/campus/pojo/SectionPojo.java
+END
+StudentAttendancePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2910/E-CAMPUSPRO/src/com/centris/campus/pojo/StudentAttendancePojo.java
+END
+TransportTypePOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/406/E-CAMPUSPRO/src/com/centris/campus/pojo/TransportTypePOJO.java
+END
+ExamDetailsPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/976/E-CAMPUSPRO/src/com/centris/campus/pojo/ExamDetailsPojo.java
+END
+ExamTimetablePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/744/E-CAMPUSPRO/src/com/centris/campus/pojo/ExamTimetablePojo.java
+END
+AddStagePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/880/E-CAMPUSPRO/src/com/centris/campus/pojo/AddStagePojo.java
+END
+CareersViewPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/600/E-CAMPUSPRO/src/com/centris/campus/pojo/CareersViewPojo.java
+END
+QuotaMasterPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/696/E-CAMPUSPRO/src/com/centris/campus/pojo/QuotaMasterPojo.java
+END
+BdayPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/1969/E-CAMPUSPRO/src/com/centris/campus/pojo/BdayPojo.java
+END
+ClassPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/2300/E-CAMPUSPRO/src/com/centris/campus/pojo/ClassPojo.java
+END
+RoleMasterPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/560/E-CAMPUSPRO/src/com/centris/campus/pojo/RoleMasterPojo.java
+END
+AcadamicYearPlanPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/779/E-CAMPUSPRO/src/com/centris/campus/pojo/AcadamicYearPlanPOJO.java
+END
+LstmsAccadamicYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1014/E-CAMPUSPRO/src/com/centris/campus/pojo/LstmsAccadamicYear.java
+END
+UserManagementPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/246/E-CAMPUSPRO/src/com/centris/campus/pojo/UserManagementPojo.java
+END
+SubjectPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1528/E-CAMPUSPRO/src/com/centris/campus/pojo/SubjectPojo.java
+END
+FeeStatusReportPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3205/E-CAMPUSPRO/src/com/centris/campus/pojo/FeeStatusReportPojo.java
+END
+LstmsStudentPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2786/E-CAMPUSPRO/src/com/centris/campus/pojo/LstmsStudentPOJO.java
+END
+MarksPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3267/E-CAMPUSPRO/src/com/centris/campus/pojo/MarksPOJO.java
+END
+AcademicYearPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/67/E-CAMPUSPRO/src/com/centris/campus/pojo/AcademicYearPojo.java
+END
+StreamDetailsPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/452/E-CAMPUSPRO/src/com/centris/campus/pojo/StreamDetailsPojo.java
+END
+TimeTablePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/2497/E-CAMPUSPRO/src/com/centris/campus/pojo/TimeTablePojo.java
+END
+TeacherTimeTablePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2435/E-CAMPUSPRO/src/com/centris/campus/pojo/TeacherTimeTablePojo.java
+END
+LstmsExaminationPOJO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/977/E-CAMPUSPRO/src/com/centris/campus/pojo/LstmsExaminationPOJO.java
+END
+ConcessionDetailsPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/1786/E-CAMPUSPRO/src/com/centris/campus/pojo/ConcessionDetailsPojo.java
+END
+TeacherRegistrationPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2975/E-CAMPUSPRO/src/com/centris/campus/pojo/TeacherRegistrationPojo.java
+END
+MeetingPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2356/E-CAMPUSPRO/src/com/centris/campus/pojo/MeetingPojo.java
+END
+AddDesignationPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/490/E-CAMPUSPRO/src/com/centris/campus/pojo/AddDesignationPojo.java
+END
+StageFeeSetupPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/1228/E-CAMPUSPRO/src/com/centris/campus/pojo/StageFeeSetupPojo.java
+END
+StaffEmployementPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1898/E-CAMPUSPRO/src/com/centris/campus/pojo/StaffEmployementPojo.java
+END
+PayrolDeductionsPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/3610/E-CAMPUSPRO/src/com/centris/campus/pojo/PayrolDeductionsPojo.java
+END
+DepartmentMasterPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/465/E-CAMPUSPRO/src/com/centris/campus/pojo/DepartmentMasterPojo.java
+END
+RemarksPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1507/E-CAMPUSPRO/src/com/centris/campus/pojo/RemarksPojo.java
+END
+ClassFeeSetupPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/1207/E-CAMPUSPRO/src/com/centris/campus/pojo/ClassFeeSetupPojo.java
+END
+RelievingOrderPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/2875/E-CAMPUSPRO/src/com/centris/campus/pojo/RelievingOrderPojo.java
+END

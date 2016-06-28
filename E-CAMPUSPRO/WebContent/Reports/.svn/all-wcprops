@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/eCampusProPlus/!svn/ver/3601/E-CAMPUSPRO/WebContent/Reports
+END
+StudentDetailsPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3601/E-CAMPUSPRO/WebContent/Reports/StudentDetailsPDFReport.jrxml
+END
+classfeesetupDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3083/E-CAMPUSPRO/WebContent/Reports/classfeesetupDetailsPDF.jrxml
+END
+teachertimetablexls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3148/E-CAMPUSPRO/WebContent/Reports/teachertimetablexls.jrxml
+END
+StudentFeeStatusReportPdf.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3213/E-CAMPUSPRO/WebContent/Reports/StudentFeeStatusReportPdf.jrxml
+END
+Driver Sample.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3093/E-CAMPUSPRO/WebContent/Reports/Driver%20Sample.jrxml
+END
+StageDetailsPdfReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3129/E-CAMPUSPRO/WebContent/Reports/StageDetailsPdfReport.jrxml
+END
+StudentDetailsExcelReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3600/E-CAMPUSPRO/WebContent/Reports/StudentDetailsExcelReport.jrxml
+END
+stagefeesetupDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3131/E-CAMPUSPRO/WebContent/Reports/stagefeesetupDetailsPDF.jrxml
+END
+subjectPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eCampusProPlus/!svn/ver/3144/E-CAMPUSPRO/WebContent/Reports/subjectPDF.jrxml
+END
+studentenquiry.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3138/E-CAMPUSPRO/WebContent/Reports/studentenquiry.jrxml
+END
+QuotaDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3113/E-CAMPUSPRO/WebContent/Reports/QuotaDetailsXLSReport.jrxml
+END
+ClassDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3329/E-CAMPUSPRO/WebContent/Reports/ClassDetailsXLSReport.jrxml
+END
+termdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3151/E-CAMPUSPRO/WebContent/Reports/termdetailsxls.jrxml
+END
+MeetingPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3110/E-CAMPUSPRO/WebContent/Reports/MeetingPDFReport.jrxml
+END
+CreatePayslip.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eCampusProPlus/!svn/ver/3279/E-CAMPUSPRO/WebContent/Reports/CreatePayslip.jrxml
+END
+RouteDetailsPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3118/E-CAMPUSPRO/WebContent/Reports/RouteDetailsPDFReport.jrxml
+END
+StageDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3130/E-CAMPUSPRO/WebContent/Reports/StageDetailsXLSReport.jrxml
+END
+ExamDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3094/E-CAMPUSPRO/WebContent/Reports/ExamDetailsPDF.jrxml
+END
+PayCertificate.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3189/E-CAMPUSPRO/WebContent/Reports/PayCertificate.jrxml
+END
+TimeTableXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/3152/E-CAMPUSPRO/WebContent/Reports/TimeTableXLSReport.jrxml
+END
+teachertimetablePDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3147/E-CAMPUSPRO/WebContent/Reports/teachertimetablePDF.jrxml
+END
+VehicleDetailsXLSReport1.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2487/E-CAMPUSPRO/WebContent/Reports/VehicleDetailsXLSReport1.jrxml
+END
+studentattendancedetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3135/E-CAMPUSPRO/WebContent/Reports/studentattendancedetailsPDF.jrxml
+END
+leaverequestdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3107/E-CAMPUSPRO/WebContent/Reports/leaverequestdetailsxls.jrxml
+END
+DepartmentDetailsPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3538/E-CAMPUSPRO/WebContent/Reports/DepartmentDetailsPDFReport.jrxml
+END
+FeeDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2481/E-CAMPUSPRO/WebContent/Reports/FeeDetailsXLSReport.jrxml
+END
+LeaveApprovalDetailsXls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3104/E-CAMPUSPRO/WebContent/Reports/LeaveApprovalDetailsXls.jrxml
+END
+DriverDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3090/E-CAMPUSPRO/WebContent/Reports/DriverDetailsPDF.jrxml
+END
+studentpromotionDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3142/E-CAMPUSPRO/WebContent/Reports/studentpromotionDetailsPDF.jrxml
+END
+ClassFeeSummary.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3173/E-CAMPUSPRO/WebContent/Reports/ClassFeeSummary.jrxml
+END
+meetingandeventgDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3108/E-CAMPUSPRO/WebContent/Reports/meetingandeventgDetailsPDF.jrxml
+END
+staffattendanceDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3121/E-CAMPUSPRO/WebContent/Reports/staffattendanceDetailsPDF.jrxml
+END
+FeeConcessionDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3484/E-CAMPUSPRO/WebContent/Reports/FeeConcessionDetailsPDF.jrxml
+END
+RouteDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/2485/E-CAMPUSPRO/WebContent/Reports/RouteDetailsXLSReport.jrxml
+END
+MeetingListXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3109/E-CAMPUSPRO/WebContent/Reports/MeetingListXLSReport.jrxml
+END
+userDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3155/E-CAMPUSPRO/WebContent/Reports/userDetailsPDF.jrxml
+END
+AcademicYearPlanDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3079/E-CAMPUSPRO/WebContent/Reports/AcademicYearPlanDetailsPDF.jrxml
+END
+StaffAttendancePDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/2695/E-CAMPUSPRO/WebContent/Reports/StaffAttendancePDFReport.jrxml
+END
+LeaveBankPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/eCampusProPlus/!svn/ver/2840/E-CAMPUSPRO/WebContent/Reports/LeaveBankPDF.jrxml
+END
+TransportTypeXSLReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3485/E-CAMPUSPRO/WebContent/Reports/TransportTypeXSLReport.jrxml
+END
+StudentAttendancePDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/2805/E-CAMPUSPRO/WebContent/Reports/StudentAttendancePDFReport.jrxml
+END
+ServiceCertificate.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2984/E-CAMPUSPRO/WebContent/Reports/ServiceCertificate.jrxml
+END
+DepartmentDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3087/E-CAMPUSPRO/WebContent/Reports/DepartmentDetailsXLSReport.jrxml
+END
+exammarksdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3097/E-CAMPUSPRO/WebContent/Reports/exammarksdetailsxls.jrxml
+END
+JobDetailsXLSReports.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/2557/E-CAMPUSPRO/WebContent/Reports/JobDetailsXLSReports.jrxml
+END
+StudentMarksPdf.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3279/E-CAMPUSPRO/WebContent/Reports/StudentMarksPdf.jrxml
+END
+ClassDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3328/E-CAMPUSPRO/WebContent/Reports/ClassDetailsPDF.jrxml
+END
+FuelMaintenanceDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3102/E-CAMPUSPRO/WebContent/Reports/FuelMaintenanceDetailsPDF.jrxml
+END
+DesignatinoPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3088/E-CAMPUSPRO/WebContent/Reports/DesignatinoPDFReport.jrxml
+END
+BdayListPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3080/E-CAMPUSPRO/WebContent/Reports/BdayListPDFReport.jrxml
+END
+ExamDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3383/E-CAMPUSPRO/WebContent/Reports/ExamDetailsXLSReport.jrxml
+END
+staffDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3123/E-CAMPUSPRO/WebContent/Reports/staffDetailsPDF.jrxml
+END
+StudentAttendanceListXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/2804/E-CAMPUSPRO/WebContent/Reports/StudentAttendanceListXLSReport.jrxml
+END
+FeeConcessionDetailsExcelReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/3483/E-CAMPUSPRO/WebContent/Reports/FeeConcessionDetailsExcelReport.jrxml
+END
+transporttypeDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3153/E-CAMPUSPRO/WebContent/Reports/transporttypeDetailsPDF.jrxml
+END
+MeetingListXLSReport.jasper
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/2803/E-CAMPUSPRO/WebContent/Reports/MeetingListXLSReport.jasper
+END
+AcademicYearDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2477/E-CAMPUSPRO/WebContent/Reports/AcademicYearDetailsXLSReport.jrxml
+END
+FeeDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eCampusProPlus/!svn/ver/3101/E-CAMPUSPRO/WebContent/Reports/FeeDetailsPDF.jrxml
+END
+circularandRemainderPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3195/E-CAMPUSPRO/WebContent/Reports/circularandRemainderPDFReport.jrxml
+END
+StaffAttendanceDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2694/E-CAMPUSPRO/WebContent/Reports/StaffAttendanceDetailsXLSReport.jrxml
+END
+BdayListXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3081/E-CAMPUSPRO/WebContent/Reports/BdayListXLSReport.jrxml
+END
+staffpayrolllistingdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3128/E-CAMPUSPRO/WebContent/Reports/staffpayrolllistingdetailsxls.jrxml
+END
+termDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3150/E-CAMPUSPRO/WebContent/Reports/termDetailsPDF.jrxml
+END
+AcademicYearPlanDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/2479/E-CAMPUSPRO/WebContent/Reports/AcademicYearPlanDetailsXLSReport.jrxml
+END
+feecollectiondetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3099/E-CAMPUSPRO/WebContent/Reports/feecollectiondetailsxls.jrxml
+END
+Bonafide.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/eCampusProPlus/!svn/ver/2896/E-CAMPUSPRO/WebContent/Reports/Bonafide.jrxml
+END
+meetingsandeventxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3111/E-CAMPUSPRO/WebContent/Reports/meetingsandeventxls.jrxml
+END
+circularandRemainderXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3196/E-CAMPUSPRO/WebContent/Reports/circularandRemainderXLSReport.jrxml
+END
+StudentFeeStatusReportExcel.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3212/E-CAMPUSPRO/WebContent/Reports/StudentFeeStatusReportExcel.jrxml
+END
+RoleDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3117/E-CAMPUSPRO/WebContent/Reports/RoleDetailsXLSReport.jrxml
+END
+DesignationDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3089/E-CAMPUSPRO/WebContent/Reports/DesignationDetailsXLSReport.jrxml
+END
+leaverequestDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3106/E-CAMPUSPRO/WebContent/Reports/leaverequestDetailsPDF.jrxml
+END
+ClassWiseExamPdfReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3279/E-CAMPUSPRO/WebContent/Reports/ClassWiseExamPdfReport.jrxml
+END
+classfeesetupdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3084/E-CAMPUSPRO/WebContent/Reports/classfeesetupdetailsxls.jrxml
+END
+FuelMaintenanceDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/2483/E-CAMPUSPRO/WebContent/Reports/FuelMaintenanceDetailsXLSReport.jrxml
+END
+ClassWiseExamExcelReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3279/E-CAMPUSPRO/WebContent/Reports/ClassWiseExamExcelReport.jrxml
+END
+StreamDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3134/E-CAMPUSPRO/WebContent/Reports/StreamDetailsXLSReport.jrxml
+END
+DriverPDF_Download.jasper
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/1295/E-CAMPUSPRO/WebContent/Reports/DriverPDF_Download.jasper
+END
+stagefeesetupdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3132/E-CAMPUSPRO/WebContent/Reports/stagefeesetupdetailsxls.jrxml
+END
+RemarksPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3115/E-CAMPUSPRO/WebContent/Reports/RemarksPDFReport.jrxml
+END
+AcademicYearDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3078/E-CAMPUSPRO/WebContent/Reports/AcademicYearDetailsPDF.jrxml
+END
+TeacherTimeTableXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3149/E-CAMPUSPRO/WebContent/Reports/TeacherTimeTableXLSReport.jrxml
+END
+FeeReceiptPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3258/E-CAMPUSPRO/WebContent/Reports/FeeReceiptPDFReport.jrxml
+END
+studentenquiryDetails.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3139/E-CAMPUSPRO/WebContent/Reports/studentenquiryDetails.jrxml
+END
+Studentattendancexls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3136/E-CAMPUSPRO/WebContent/Reports/Studentattendancexls.jrxml
+END
+VehicleDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3157/E-CAMPUSPRO/WebContent/Reports/VehicleDetailsPDF.jrxml
+END
+ClassTeacherPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3301/E-CAMPUSPRO/WebContent/Reports/ClassTeacherPDFReport.jrxml
+END
+TeacherMappingDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/1121/E-CAMPUSPRO/WebContent/Reports/TeacherMappingDetailsXLSReport.jrxml
+END
+DriverPDF_Download.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/3092/E-CAMPUSPRO/WebContent/Reports/DriverPDF_Download.jrxml
+END
+PayrollPdfReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/2072/E-CAMPUSPRO/WebContent/Reports/PayrollPdfReport.jrxml
+END
+SectoinXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3120/E-CAMPUSPRO/WebContent/Reports/SectoinXLSReport.jrxml
+END
+RemarksListXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eCampusProPlus/!svn/ver/3114/E-CAMPUSPRO/WebContent/Reports/RemarksListXLSReport.jrxml
+END
+teacherTimaTablePDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3146/E-CAMPUSPRO/WebContent/Reports/teacherTimaTablePDFReport.jrxml
+END
+LeaveBankDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2839/E-CAMPUSPRO/WebContent/Reports/LeaveBankDetailsXLSReport.jrxml
+END
+studentpromotiondetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/3143/E-CAMPUSPRO/WebContent/Reports/studentpromotiondetailsxls.jrxml
+END
+PayrollExcelReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/2072/E-CAMPUSPRO/WebContent/Reports/PayrollExcelReport.jrxml
+END
+RoleDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3507/E-CAMPUSPRO/WebContent/Reports/RoleDetailsPDF.jrxml
+END
+staffattendancedetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3122/E-CAMPUSPRO/WebContent/Reports/staffattendancedetailsxls.jrxml
+END
+staffemploymentPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/3126/E-CAMPUSPRO/WebContent/Reports/staffemploymentPDF.jrxml
+END
+LeaveDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3105/E-CAMPUSPRO/WebContent/Reports/LeaveDetailsPDF.jrxml
+END
+PhoneDirectoryPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2939/E-CAMPUSPRO/WebContent/Reports/PhoneDirectoryPDFReport.jrxml
+END
+studentfulldetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3141/E-CAMPUSPRO/WebContent/Reports/studentfulldetailsxls.jrxml
+END
+subjectXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3145/E-CAMPUSPRO/WebContent/Reports/subjectXLSReport.jrxml
+END
+TransferCentificate.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/2898/E-CAMPUSPRO/WebContent/Reports/TransferCentificate.jrxml
+END
+userdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/3156/E-CAMPUSPRO/WebContent/Reports/userdetailsxls.jrxml
+END
+staffemploymentdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3125/E-CAMPUSPRO/WebContent/Reports/staffemploymentdetailsxls.jrxml
+END
+ClassTeacherXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3302/E-CAMPUSPRO/WebContent/Reports/ClassTeacherXLSReport.jrxml
+END
+RemainderDetailsPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3553/E-CAMPUSPRO/WebContent/Reports/RemainderDetailsPDFReport.jrxml
+END
+StudentMarksExcel.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eCampusProPlus/!svn/ver/3279/E-CAMPUSPRO/WebContent/Reports/StudentMarksExcel.jrxml
+END
+JobDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eCampusProPlus/!svn/ver/3103/E-CAMPUSPRO/WebContent/Reports/JobDetailsPDF.jrxml
+END
+RelievingOrder.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eCampusProPlus/!svn/ver/2897/E-CAMPUSPRO/WebContent/Reports/RelievingOrder.jrxml
+END
+sectionPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eCampusProPlus/!svn/ver/3119/E-CAMPUSPRO/WebContent/Reports/sectionPDF.jrxml
+END
+staffpayrolllistingDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3127/E-CAMPUSPRO/WebContent/Reports/staffpayrolllistingDetailsPDF.jrxml
+END
+StreamDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eCampusProPlus/!svn/ver/3133/E-CAMPUSPRO/WebContent/Reports/StreamDetailsPDF.jrxml
+END
+studentenquirrDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eCampusProPlus/!svn/ver/3137/E-CAMPUSPRO/WebContent/Reports/studentenquirrDetailsPDF.jrxml
+END
+PhoneDirectoryXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/2940/E-CAMPUSPRO/WebContent/Reports/PhoneDirectoryXLSReport.jrxml
+END
+feecollectionDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3098/E-CAMPUSPRO/WebContent/Reports/feecollectionDetailsPDF.jrxml
+END
+RemainderDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3554/E-CAMPUSPRO/WebContent/Reports/RemainderDetailsXLSReport.jrxml
+END
+DriverDetailsXLSReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/3091/E-CAMPUSPRO/WebContent/Reports/DriverDetailsXLSReport.jrxml
+END
+classTimaTablePDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3085/E-CAMPUSPRO/WebContent/Reports/classTimaTablePDFReport.jrxml
+END
+studentfulldetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3140/E-CAMPUSPRO/WebContent/Reports/studentfulldetailsPDF.jrxml
+END
+ClassFeeSummaryPdf.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/3174/E-CAMPUSPRO/WebContent/Reports/ClassFeeSummaryPdf.jrxml
+END
+QuotaDetailsPDFReport.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eCampusProPlus/!svn/ver/3112/E-CAMPUSPRO/WebContent/Reports/QuotaDetailsPDFReport.jrxml
+END
+ExamMarkDetailsPDF.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eCampusProPlus/!svn/ver/3096/E-CAMPUSPRO/WebContent/Reports/ExamMarkDetailsPDF.jrxml
+END
+staffdetailsxls.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eCampusProPlus/!svn/ver/3124/E-CAMPUSPRO/WebContent/Reports/staffdetailsxls.jrxml
+END

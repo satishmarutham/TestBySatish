@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/exceptions
+END
+LstmsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/exceptions/LstmsException.java
+END
+ContactusDaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/exceptions/ContactusDaoException.java
+END
+ContactusDaoException1.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/2/E-CAMPUSPRO/src/com/centris/campus/exceptions/ContactusDaoException1.java
+END

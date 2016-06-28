@@ -1,0 +1,79 @@
+10
+
+dir
+3601
+https://devlopment/svn/eCampusProPlus/E-CAMPUSPRO/WebContent/FIles
+https://devlopment/svn/eCampusProPlus
+
+
+
+2015-12-16T07:53:03.906250Z
+2422
+Seshu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+20e509a5-07de-4b46-b6e6-4648cde0b6ee
+
+EVENTS
+dir
+
+FEEDBACK
+dir
+
+IMAGES
+dir
+
+LEAVEREQUEST
+dir
+
+LeaveFileUploads
+dir
+
+MailFiles
+dir
+
+PDFS
+dir
+
+Resumes
+dir
+
+STUDENTBIRTHCER
+dir
+
+STUDENTIMAGES
+dir
+
+STUDENTTRANSFERCER
+dir
+
+SYLLABUS
+dir
+
+StudentAttendance
+dir
+
+TEACHERIDPROOF
+dir
+
+TEACHERIMAGES
+dir
+
+TEACHERRESUMES
+dir
+
+TeacherAttendance
+dir
+

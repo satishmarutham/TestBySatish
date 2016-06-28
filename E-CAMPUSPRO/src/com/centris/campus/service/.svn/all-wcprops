@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/eCampusProPlus/!svn/ver/3585/E-CAMPUSPRO/src/com/centris/campus/service
+END
+OnlineFeeReceiptService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/3250/E-CAMPUSPRO/src/com/centris/campus/service/OnlineFeeReceiptService.java
+END
+FeeMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/716/E-CAMPUSPRO/src/com/centris/campus/service/FeeMasterService.java
+END
+StudentEnquiryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/1916/E-CAMPUSPRO/src/com/centris/campus/service/StudentEnquiryService.java
+END
+StaffServiceReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/3179/E-CAMPUSPRO/src/com/centris/campus/service/StaffServiceReportService.java
+END
+AddSubjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/3405/E-CAMPUSPRO/src/com/centris/campus/service/AddSubjectService.java
+END
+UserRolePermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/1019/E-CAMPUSPRO/src/com/centris/campus/service/UserRolePermissionService.java
+END
+StudentTransferCertifivateReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/eCampusProPlus/!svn/ver/2878/E-CAMPUSPRO/src/com/centris/campus/service/StudentTransferCertifivateReportService.java
+END
+LeaveBankService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2830/E-CAMPUSPRO/src/com/centris/campus/service/LeaveBankService.java
+END
+DepartmentMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/466/E-CAMPUSPRO/src/com/centris/campus/service/DepartmentMasterService.java
+END
+StudentRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/3016/E-CAMPUSPRO/src/com/centris/campus/service/StudentRegistrationService.java
+END
+AddDesignationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/491/E-CAMPUSPRO/src/com/centris/campus/service/AddDesignationService.java
+END
+FeeCollectionSummaryReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/eCampusProPlus/!svn/ver/3168/E-CAMPUSPRO/src/com/centris/campus/service/FeeCollectionSummaryReportService.java
+END
+FeeSetupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/1787/E-CAMPUSPRO/src/com/centris/campus/service/FeeSetupService.java
+END
+CommunicationSettingsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eCampusProPlus/!svn/ver/3585/E-CAMPUSPRO/src/com/centris/campus/service/CommunicationSettingsService.java
+END
+StudentPramotionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/1944/E-CAMPUSPRO/src/com/centris/campus/service/StudentPramotionService.java
+END
+TeacherLeaveRequestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/2950/E-CAMPUSPRO/src/com/centris/campus/service/TeacherLeaveRequestService.java
+END
+ClassTeacherLsitService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/3296/E-CAMPUSPRO/src/com/centris/campus/service/ClassTeacherLsitService.java
+END
+LeaveDetailsReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/2958/E-CAMPUSPRO/src/com/centris/campus/service/LeaveDetailsReportService.java
+END
+StreamDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1312/E-CAMPUSPRO/src/com/centris/campus/service/StreamDetailsService.java
+END
+ExamTimeTableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1246/E-CAMPUSPRO/src/com/centris/campus/service/ExamTimeTableService.java
+END
+TeacherService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/1897/E-CAMPUSPRO/src/com/centris/campus/service/TeacherService.java
+END
+ParentLeaveRequestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eCampusProPlus/!svn/ver/2670/E-CAMPUSPRO/src/com/centris/campus/service/ParentLeaveRequestService.java
+END
+ExamDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/978/E-CAMPUSPRO/src/com/centris/campus/service/ExamDetailsService.java
+END
+ClassTeacherMappingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/1160/E-CAMPUSPRO/src/com/centris/campus/service/ClassTeacherMappingService.java
+END
+SectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/3015/E-CAMPUSPRO/src/com/centris/campus/service/SectionService.java
+END
+StaffPayrollService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/1992/E-CAMPUSPRO/src/com/centris/campus/service/StaffPayrollService.java
+END
+ReleivingOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/2787/E-CAMPUSPRO/src/com/centris/campus/service/ReleivingOrderService.java
+END
+StaffReleivingOrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eCampusProPlus/!svn/ver/2877/E-CAMPUSPRO/src/com/centris/campus/service/StaffReleivingOrderService.java
+END
+AcademicYearMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/601/E-CAMPUSPRO/src/com/centris/campus/service/AcademicYearMasterService.java
+END
+RemainderMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/849/E-CAMPUSPRO/src/com/centris/campus/service/RemainderMasterService.java
+END
+MarksUploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/2539/E-CAMPUSPRO/src/com/centris/campus/service/MarksUploadService.java
+END
+TransportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2456/E-CAMPUSPRO/src/com/centris/campus/service/TransportService.java
+END
+StaffAttendanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/2911/E-CAMPUSPRO/src/com/centris/campus/service/StaffAttendanceService.java
+END
+TeacherAttendanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/2105/E-CAMPUSPRO/src/com/centris/campus/service/TeacherAttendanceService.java
+END
+ParentSettingsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eCampusProPlus/!svn/ver/3364/E-CAMPUSPRO/src/com/centris/campus/service/ParentSettingsService.java
+END
+UserManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/247/E-CAMPUSPRO/src/com/centris/campus/service/UserManagementService.java
+END
+TermMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/717/E-CAMPUSPRO/src/com/centris/campus/service/TermMasterService.java
+END
+AssignmentUploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/2090/E-CAMPUSPRO/src/com/centris/campus/service/AssignmentUploadService.java
+END
+ClassFeeSetupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1208/E-CAMPUSPRO/src/com/centris/campus/service/ClassFeeSetupService.java
+END
+AcadamicYearPlanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/eCampusProPlus/!svn/ver/778/E-CAMPUSPRO/src/com/centris/campus/service/AcadamicYearPlanService.java
+END
+PhoneDirectoryReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eCampusProPlus/!svn/ver/2931/E-CAMPUSPRO/src/com/centris/campus/service/PhoneDirectoryReportService.java
+END
+StageFeeSetupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1229/E-CAMPUSPRO/src/com/centris/campus/service/StageFeeSetupService.java
+END
+StaffEmployementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eCampusProPlus/!svn/ver/3611/E-CAMPUSPRO/src/com/centris/campus/service/StaffEmployementService.java
+END
+ClassService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/327/E-CAMPUSPRO/src/com/centris/campus/service/ClassService.java
+END
+RoleMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/189/E-CAMPUSPRO/src/com/centris/campus/service/RoleMasterService.java
+END
+FuelMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/1055/E-CAMPUSPRO/src/com/centris/campus/service/FuelMasterService.java
+END
+CareersViewService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/602/E-CAMPUSPRO/src/com/centris/campus/service/CareersViewService.java
+END
+QuotaMasterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/697/E-CAMPUSPRO/src/com/centris/campus/service/QuotaMasterService.java
+END
+VehicleDriverMappingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eCampusProPlus/!svn/ver/1140/E-CAMPUSPRO/src/com/centris/campus/service/VehicleDriverMappingService.java
+END
+StaffAttendanceReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eCampusProPlus/!svn/ver/3286/E-CAMPUSPRO/src/com/centris/campus/service/StaffAttendanceReportService.java
+END
+StageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eCampusProPlus/!svn/ver/881/E-CAMPUSPRO/src/com/centris/campus/service/StageService.java
+END
+ReportsMenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eCampusProPlus/!svn/ver/3268/E-CAMPUSPRO/src/com/centris/campus/service/ReportsMenuService.java
+END
+TimeTableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/2517/E-CAMPUSPRO/src/com/centris/campus/service/TimeTableService.java
+END
+TransportTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/eCampusProPlus/!svn/ver/405/E-CAMPUSPRO/src/com/centris/campus/service/TransportTypeService.java
+END
+FeeCollectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/1817/E-CAMPUSPRO/src/com/centris/campus/service/FeeCollectionService.java
+END
+StudentAttendanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eCampusProPlus/!svn/ver/2911/E-CAMPUSPRO/src/com/centris/campus/service/StudentAttendanceService.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eCampusProPlus/!svn/ver/3068/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff
+END
+StaffAmendment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eCampusProPlus/!svn/ver/2333/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/StaffAmendment.jsp
+END
+StaffPayrollEntry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eCampusProPlus/!svn/ver/2253/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/StaffPayrollEntry.jsp
+END
+AddStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eCampusProPlus/!svn/ver/3619/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/AddStaff.jsp
+END
+DownloadPayslip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eCampusProPlus/!svn/ver/2547/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/DownloadPayslip.jsp
+END
+StaffDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eCampusProPlus/!svn/ver/3066/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/StaffDetails.jsp
+END
+StaffPayrollList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3068/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/StaffPayrollList.jsp
+END
+StaffEmployementList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eCampusProPlus/!svn/ver/3602/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/StaffEmployementList.jsp
+END
+getTeacherSalary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eCampusProPlus/!svn/ver/3620/E-CAMPUSPRO/WebContent/JSP/backOffice/Staff/getTeacherSalary.jsp
+END

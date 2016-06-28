@@ -1,0 +1,69 @@
+# Driver Details
+mySqlDriver=com.mysql.jdbc.Driver
+protocal=jdbc:mysql
+portno=3306
+
+# DB Details
+database=ecampus_centris
+ipaddress=192.168.1.98
+username=idea
+password=centris
+
+# Student Registration Details
+StudentImages=StudentImages
+
+# Property File Details
+prop_dir=CAMPUS
+LSTMS_LOG_PATH=D:/LSTMS_Logs/ss
+LOG4J_PATH=com/centris/campus/properties/log4j.properties
+
+# Reports Details
+ImageName=logo.png
+MobIcon=MobIcon.png
+EmailIcon=EmaiIcon.png
+
+SchoolName=Velalar Vidyalayaa
+AddressLine1=Maruthi Nagar,Thindal Post, Erode-638 012.
+AddressLine2=04242244404,
+AddressLine3=velalarvidyalayaacbse@yahoo.com
+SchoolName1=VELALAR VIDYALAYAA CBSE
+
+# Mail Details
+MAIL.SMTP.HOST=mail.centrisinfotech.com
+MAIL.SMTP.PORT=25
+SENDER.MAIL.ID=donotreply@centrisinfotech.com
+MAIL.TRANSPORT.PROTOCAL=smtp
+MAIL.SMTP.SSL.TRUST=
+MAIL.SMTP.STARTTTLS.ENABLE=false
+SENDER.MAIL.PASSWORD=DoN%rP)987
+MAIL.SMTP.AUTH=true
+MAIL.SENDER.NAME=eCampusPro
+ADMIN_PASSWORD=velalar
+
+# URL Details
+ClientURL=192.168.1.175:7070/VELALAR
+
+# Property Fee Chellan Details
+ChellanNoStarttingFrom=0
+TeacherChlnNoStarttingFrom=0
+
+#Sms Details
+
+SMS_USERNAME=centrisinfo
+SMS_PASSWORD=centrisinfo123
+SMS_SENDER_ID=060000
+SMS_URL=http://alerts.sinfini.com//api/web2sms.php?workingkey=Aa6c09af3073973655d2f610450071d51&sender=VVSSED
+SMS_MOBILE_PARAMETER=to
+SMS_MESSAGE_CONTENT_PARAMETER=message
+DELIVERY_STATUS_URL=http://alerts.sinfini.com//api/status.php?workingkey=Aa6c09af3073973655d2f610450071d51
+SMS_MESSAGE_ID_PARAMETER=messageid
+
+EcampusPro_Documents_Dir=D://ECampusDocuments
+
+Client_Image=centris.png
+EcampusPro_Payslip_Dir=D://EcampusPro_Payslip
+ClientName =Centris Infotech Services Pvt. Ltd.
+ClientAddress_Line_1 =
+ClientAddress_Line_2 =
+
+
